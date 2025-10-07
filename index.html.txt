@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dr.🩺Ai Contact</title>
+    
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-50 flex items-center justify-center min-h-screen">
+
+    <div class="bg-white shadow-lg rounded-2xl p-8 max-w-md w-full text-center">
+        <h1 class="text-3xl font-bold mb-4">Dr.🩺Ai</h1>
+        <p class="text-gray-600 mb-6">Contact & Social Links</p>
+
+        <div class="space-y-4">
+            <!-- Phone -->
+            <a href="tel:9219671761" class="block bg-green-500 text-white py-2 px-4 rounded-lg hover:bg-green-600 transition">
+                📞 Call: 9219671761
+            </a>
+
+            <!-- Instagram -->
+            <a href="https://www.instagram.com/mbbs66_ms" target="_blank" class="block bg-pink-500 text-white py-2 px-4 rounded-lg hover:bg-pink-600 transition">
+                📸 Instagram: mbbs66_ms
+            </a>
+
+            <!-- Telegram -->
+            <a href="https://t.me/cytoaispecialist" target="_blank" class="block bg-blue-500 text-white py-2 px-4 rounded-lg hover:bg-blue-600 transition">
+                💬 Telegram: @cytoaispecialist
+            </a>
+
+            <!-- Gmail 1 -->
+            <a href="mailto:miniaccesssurg@gmail.com" class="block bg-red-500 text-white py-2 px-4 rounded-lg hover:bg-red-600 transition">
+                ✉ Gmail: miniaccesssurg@gmail.com
+            </a>
+
+            <!-- Gmail 2 -->
+            <a href="mailto:iimmenseaiexperts@gmail.com" class="block bg-red-500 text-white py-2 px-4 rounded-lg hover:bg-red-600 transition">
+                ✉ Gmail: iimmenseaiexperts@gmail.com
+            </a>
+        </div>
+    </div>
+
+</body>
+</html>
